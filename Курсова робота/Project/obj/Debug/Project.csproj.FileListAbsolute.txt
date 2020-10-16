@@ -1,0 +1,40 @@
+C:\Users\User\Desktop\Project\Project\bin\Debug\Project.exe.config
+C:\Users\User\Desktop\Project\Project\bin\Debug\Project.exe
+C:\Users\User\Desktop\Project\Project\bin\Debug\Project.pdb
+C:\Users\User\Desktop\Project\Project\obj\Debug\Project.Properties.Resources.resources
+C:\Users\User\Desktop\Project\Project\obj\Debug\Project.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Project\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Project\Project\obj\Debug\Project.exe
+C:\Users\User\Desktop\Project\Project\obj\Debug\Project.pdb
+C:\Users\User\Desktop\Project\Project\obj\Debug\Project.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Project\Project\obj\Debug\Project.Form1.resources
+C:\Users\USER10\Desktop\Project\Project\bin\Debug\Project.exe.config
+C:\Users\USER10\Desktop\Project\Project\bin\Debug\Project.exe
+C:\Users\USER10\Desktop\Project\Project\bin\Debug\Project.pdb
+C:\Users\USER10\Desktop\Project\Project\obj\Debug\Project.csprojAssemblyReference.cache
+C:\Users\USER10\Desktop\Project\Project\obj\Debug\Project.Form1.resources
+C:\Users\USER10\Desktop\Project\Project\obj\Debug\Project.Properties.Resources.resources
+C:\Users\USER10\Desktop\Project\Project\obj\Debug\Project.csproj.GenerateResource.cache
+C:\Users\USER10\Desktop\Project\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+C:\Users\USER10\Desktop\Project\Project\obj\Debug\Project.exe
+C:\Users\USER10\Desktop\Project\Project\obj\Debug\Project.pdb
+C:\Users\USER10\Desktop\Курсова робота\Project\bin\Debug\Project.exe.config
+C:\Users\USER10\Desktop\Курсова робота\Project\bin\Debug\Project.exe
+C:\Users\USER10\Desktop\Курсова робота\Project\bin\Debug\Project.pdb
+C:\Users\USER10\Desktop\Курсова робота\Project\obj\Debug\Project.csprojAssemblyReference.cache
+C:\Users\USER10\Desktop\Курсова робота\Project\obj\Debug\Project.Form1.resources
+C:\Users\USER10\Desktop\Курсова робота\Project\obj\Debug\Project.Properties.Resources.resources
+C:\Users\USER10\Desktop\Курсова робота\Project\obj\Debug\Project.csproj.GenerateResource.cache
+C:\Users\USER10\Desktop\Курсова робота\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+C:\Users\USER10\Desktop\Курсова робота\Project\obj\Debug\Project.exe
+C:\Users\USER10\Desktop\Курсова робота\Project\obj\Debug\Project.pdb
+C:\Users\User\Desktop\Курсова робота\Project\bin\Debug\Project.exe.config
+C:\Users\User\Desktop\Курсова робота\Project\bin\Debug\Project.exe
+C:\Users\User\Desktop\Курсова робота\Project\bin\Debug\Project.pdb
+C:\Users\User\Desktop\Курсова робота\Project\obj\Debug\Project.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Курсова робота\Project\obj\Debug\Project.Form1.resources
+C:\Users\User\Desktop\Курсова робота\Project\obj\Debug\Project.Properties.Resources.resources
+C:\Users\User\Desktop\Курсова робота\Project\obj\Debug\Project.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Курсова робота\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Курсова робота\Project\obj\Debug\Project.exe
+C:\Users\User\Desktop\Курсова робота\Project\obj\Debug\Project.pdb
